@@ -16,4 +16,4 @@ I am currently trying hard to be a Java developer.
 
 
 #### You can reach me via email:
-- yasarmustafayev1998@gmail.com
+- yasar.mustafa.business@gmail.com
