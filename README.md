@@ -9,8 +9,6 @@ I am currently trying hard to be a Java developer.
 
 ## Skills and Experience:
 * :muscle: Java, Spring Framework
-* :call_me_hand: HTML5 / CSS3 / BootStrap5 / Vanilla JS
-* :crossed_fingers: Version Control (Github) / Project management experience (Agile) with Atlassian Jira
 
 ***I am currently open to work with the Java based technologies***
 
